@@ -1,0 +1,38 @@
+.container{
+	border: 1px solid black;
+}
+
+.biodata{
+	margin-left: 18px;
+	margin-right: 18px;
+	margin-bottom: 18px;
+	line-height: 1.5em;
+}
+
+input[type=text] {
+  	width:99%;
+  	height: 30px;
+
+}
+
+input[type=checkbox] {
+  	margin-right: 7px;
+}
+
+input[type=radio] {
+  	margin-right: 5px;
+
+}
+
+input[type=date] {
+  	width:99%;
+  	height: 35px;
+}
+
+select[name=religion]{
+	width:99%;
+  	height: 30px;
+
+}
+
+
